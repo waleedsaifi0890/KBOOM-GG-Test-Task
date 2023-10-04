@@ -19,3 +19,7 @@
 2. (hero/icons) for many different icons.
 3. (react-modern-drawer ) for responsiveness of the sidebar , show drawer on the small screens.
 4. (tailwind-scrollbar-hide) to hide ugly scroll-bar on sidebar  
+
+# Video Demonstration
+
+https://www.loom.com/share/1c1b9aec006c4216aa7670ee72ce38fb?sid=a45ac01b-04fc-4ec0-948d-2cebbb85436c
